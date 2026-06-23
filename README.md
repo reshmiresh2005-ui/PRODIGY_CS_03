@@ -38,3 +38,6 @@ Output:
 ```text
 Strong Password
 ```
+## Output Screenshot
+
+![Output](password_checker_output.png)
