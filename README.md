@@ -40,4 +40,4 @@ Strong Password
 ```
 ## Output Screenshot
 
-![Output](password_checker_output.png)
+![Output](password_checker_output.png.png)
